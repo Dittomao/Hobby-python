@@ -1,3 +1,1 @@
-print("           @@           ")
-print("           @@           ")
-print("        @@ @@           ")
+print("")
