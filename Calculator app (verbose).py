@@ -13,4 +13,8 @@ if op==4:
     print(a/b)
 if op>4:
     print("Operation doesn't exist BITCH!")
+if op==69:
+    print("he he NAUGHTY Boy!😏")
+    
 print("Arigato🎎!")
+
